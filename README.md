@@ -15,7 +15,6 @@ This GitHub repository contains the templates and instructions needed to complet
     - `deleteStudent.py`: A Python script to enter your solution to delete a record.
     - `getStudent.py`: A Python script to get a student by student number.
     - `promptStudent.py`: A Python script to enter your solution to accept records.
-    - `updateStudent.py`: A Python script to update a student's name.
 - `/Tests`: Contains test cases.
     - `test_app.py`: Write your test cases here.
 - `app.py`: This is the entry point for your app (the script that brings all your tasks together and turns it into an interactive program).
